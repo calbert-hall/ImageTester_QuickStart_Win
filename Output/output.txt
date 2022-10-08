@@ -1,0 +1,8 @@
+ImageTester version 3.0.4 
+[1/2] 
+[Passed], Existing test [ steps: 1, test name: test.pdf Page - 1, matches: 1, mismatches:0, missing: 0] , URL: https://eyes.applitools.com/app/batches/00000251737115227719/00000251737115227578?accountId=qb3-p6WFqkqWiyMEPfoIug~~ 
+Accessibility: [Passed], Level: [AA], Version: [WCAG_2_0] 
+[2/2] 
+[Passed], Existing test [ steps: 1, test name: test.pdf Page - 2, matches: 1, mismatches:0, missing: 0] , URL: https://eyes.applitools.com/app/batches/00000251737115227719/00000251737115227594?accountId=qb3-p6WFqkqWiyMEPfoIug~~ 
+Accessibility: [Passed], Level: [AA], Version: [WCAG_2_0] 
+Applitools Testing Complete. Moving PDFs to Archive folder.
