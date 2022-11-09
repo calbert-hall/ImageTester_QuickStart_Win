@@ -4,6 +4,8 @@
 1. Java JDK is Installed. You can find it [here](https://www.oracle.com/java/technologies/downloads/)
 2. You have Windows Powershell installed. This comes with Windows, and you should have it installed. 
 3. You have a user on [Applitools](https://eyes.applitools.com) and can log-in and access your API Key. (Upper Right Corner)
+4. [Install Ghostscript](https://ghostscript.com/releases/gsdnld.html)
+5. [Install ImageMagick](https://imagemagick.org/script/download.php)
 
 ## Instructions ##
 

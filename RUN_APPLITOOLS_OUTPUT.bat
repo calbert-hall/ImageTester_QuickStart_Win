@@ -11,5 +11,6 @@ set CUR_MS=%time:~9,2%
 
 set SUBFILENAME=%CUR_YYYY%-%CUR_MM%-%CUR_DD%-%CUR_HH%-%CUR_NN%-%CUR_SS%
 echo on
+powershell -ExecutionPolicy Bypass -File magick.ps1 > .\Output\%SUBFILENAME%.txt
 powershell -ExecutionPolicy Bypass -File ApplitoolsScript.ps1 > .\Output\%SUBFILENAME%.txt
 @pause
